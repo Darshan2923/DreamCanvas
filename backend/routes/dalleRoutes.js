@@ -32,9 +32,11 @@ router.route('/').post(async (req, res) => {
         res.status(200).json({ photo: image });
 
     } catch (error) {
-        res.status(500).send(error?.response.data.error.message);
+        res.status(500);
         console.log('Error in getting the prompt', error);
     }
 })
 
 export default router;
+
+// For anyone else getting Failed to connect error. Check that your NodeJS is not crashing. If a previous request causes your NodeJS server to crash or restart this is the same error on subsequent requests.
