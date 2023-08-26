@@ -14,7 +14,7 @@ app.use(cors());
 app.use(express.json({ limit: '50mb' }));
 
 app.use('/api/v1/post', postRoutes); //Created api endpoints to connect frontend from our backend
-app.use('/api/v1/post', dalleRoutes);
+app.use('/api/v1/dalle', dalleRoutes);
 
 app.get("/", async (req, res) => {
     res.send("Serber is running");
