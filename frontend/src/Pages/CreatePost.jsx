@@ -39,7 +39,7 @@ const CreatePost = () => {
                         'Content-type': 'application/json',
                     },
                     body: JSON.stringify({ prompt: form.prompt }),
-                })
+                });
 
                 const data = await response.json();
 
