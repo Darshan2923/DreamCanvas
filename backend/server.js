@@ -17,14 +17,14 @@ app.use('/api/v1/post', postRoutes); //Created api endpoints to connect frontend
 app.use('/api/v1/dalle', dalleRoutes);
 
 app.get("/", async (req, res) => {
-    res.send("Serber is running");
+    res.send("Server is running");
 })
 
 const startServer = async () => {
 
     try {
         connectDB(process.env.MONGODB_URL);
-        app.listen(5100, () => console.log("Server runs"));
+        app.listen(5200, () => console.log("Server runs"));
     } catch (error) {
         console.log(error);
     }
