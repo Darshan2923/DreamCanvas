@@ -1,7 +1,5 @@
 # Project Showcase: MERN-Based Integration with OpenAI's API
 
-Welcome to our project showcase, where cutting-edge technologies converge! Our project, built on the MERN stack, demonstrates the seamless integration of OpenAI's powerful API. Through this innovative and interactive platform, we're excited to unveil the boundless potential of AI-generated content. Join us in exploring a new realm of possibilities where creativity meets AI intelligence.
-
 <h3>Build with:</h3>
 
 » Tailwind CSS <br>
