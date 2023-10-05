@@ -1,7 +1,6 @@
 # Project Showcase: MERN-Based Integration with OpenAI's API
 
 <h3>Build with:</h3>
-
 » Tailwind CSS <br>
 » MERN
 
@@ -9,7 +8,7 @@
 <h2>Screenshots of the Project 📸</h2>
 <br>
 
-<h3 align='center'>Home Page 🏡</h3>
+<h3 align='center'>Home Page  🏡</h3>
 
 <img src='https://github.com/Darshan2923/DreamCanvas/assets/135990671/e2669bf9-7550-4df9-bc3e-392a42e93dd8.png'/>
 <h3 align='center'>Create Post Page</h3>
