@@ -1,4 +1,4 @@
-# Project Showcase: MERN-Based Integration with OpenAI API
+# Project Showcase: MERN-Based Integration with OpenAI API and Tailwind
 
 <h3>Build with:</h3>
 » Tailwind CSS <br>
