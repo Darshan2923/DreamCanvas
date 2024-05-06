@@ -2,7 +2,7 @@
 
 <h3>Build with:</h3>
 » Tailwind CSS <br>
-» MERN
+» MERN 
 
 
 <h2>Screenshots of the Project 📸</h2>
